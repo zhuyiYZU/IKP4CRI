@@ -1,0 +1,5 @@
+Assume you are an intelligent dialogue recommendation system. Based on the conversation history {"placeholder":"text_a"} and the user's latest message {"placeholder":"text_b"}, determine the user is {"mask"} in the current topic.
+Based on the conversation content {"placeholder":"text_a"} and the user's latest input {"placeholder":"text_b"}, determine the user is {"mask"} about the topic.
+Using the previous conversation {"placeholder":"text_a"} and the user's new message {"placeholder":"text_b"}, infer the user's {"mask"} regarding the topic.
+Analyze the dialogue context {"placeholder":"text_a"} and the user's current message {"placeholder":"text_b"} to identify the user's {"mask"} about the topic.
+Combine the conversation history {"placeholder":"text_a"} with the user's latest statement {"placeholder":"text_b"} to analyze the user's {"mask"} about the current topic.

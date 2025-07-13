@@ -1,0 +1,5 @@
+假设你是智能对话推荐系统，根据以下对话历史{"placeholder":"text_a"} 用户最新发言{"placeholder":"text_b"}，判断用户对当前话题的{"mask"}
+基于对话内容{"placeholder":"text_a"}和用户最新输入{"placeholder":"text_b"}，判断用户对该话题的{"mask"}
+根据此前对话{"placeholder":"text_a"}及用户新发言{"placeholder":"text_b"}，推测用户对话题的{"mask"}
+通过分析对话上下文{"placeholder":"text_a"}与用户当前发言{"placeholder":"text_b"}，确定用户对该话题的{"mask"}
+结合对话历史{"placeholder":"text_a"}与用户最新发言{"placeholder":"text_b"}，分析用户对当前话题的{"mask"}

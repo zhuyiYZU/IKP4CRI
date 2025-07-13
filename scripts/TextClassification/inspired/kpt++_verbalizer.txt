@@ -1,0 +1,2 @@
+uninterested,disappointed,busy,curious,satisfied,poor,young,questionable,mysterious,unrealistic,unfunny,apathetic,indifferent,frustrated,disdainful,unsatisfied,ambivalent,unhappy,enraptured,dismissive,tired
+interested,curious,impressed,happy,inclined,willing,disappointed,satisfied,able,good,general,given,inclination,reflected,increasing,substantial,change,profit,much,stake,significance
